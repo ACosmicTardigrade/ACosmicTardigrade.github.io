@@ -1,6 +1,6 @@
 # Setup
 title:               Nate's Project Portfolio
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'This website functions as a way to document how I've explored and discovered interesting projects, ideas, and concepts in each of my core interests. Feel free to navigate through each page!'
 url:                 ''
 baseurl:             'ACosmicTardigrade.github.io/'
 paginate:            5
@@ -8,9 +8,8 @@ permalink:           pretty
 
 # About/contact
 author:
-  name:              Nate Denlinger
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Nate Denlinger             
+  email:             natus2liamg@gmail.com
 
 # Gems
 plugins:
