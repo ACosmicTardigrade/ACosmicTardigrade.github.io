@@ -1,6 +1,6 @@
 # Setup
 title:               Nate's Project Portfolio
-description:         'This website functions as a way to document how I've explored and discovered interesting projects, ideas, and concepts in each of my core interests. Feel free to navigate through each page!'
+description:         'This website functions as a way to document how I've explored or discovered interesting projects, ideas, and concepts in each of my core interests. Feel free to navigate through each page!'
 url:                 ''
 baseurl:             'ACosmicTardigrade.github.io/'
 paginate:            5
