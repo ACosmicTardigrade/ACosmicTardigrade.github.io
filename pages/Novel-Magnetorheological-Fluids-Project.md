@@ -9,6 +9,8 @@ I began this project in May of 2019, and almost its entirity has been motivated 
 
 I had originally began this project as an investigation of shear-thickening non-Newtonian fluids, a class of smart fluids that increase their viscosity, or thickeness, in response to an applied force or field. 
 
+![Test Image](/images/Schematic-of-shear-thickening-fluid.png)
+
 ### Magnetorheological Fluids: Properties, Applications and What Needs to Be Researched
 
 
