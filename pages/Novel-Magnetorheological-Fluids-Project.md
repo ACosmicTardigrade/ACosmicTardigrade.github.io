@@ -17,6 +17,8 @@ At this point, I had a general topic of study and an expert to aid me, which had
 
 At this point, my childish excitement became a hinderance. It prevented me from being entirely rational in my search for a gap in the literature. It prodded me to latch onto what I thought were original ideas without thouroughly checking the literature. It became the small child running around in a lab coat, one with ambition and curiostity, but one with naviety running through its veins. 
 
+Metaphors aside, my naviety got the best of me in the early stages of my research. Around September of 2019, I became extremely interested in high speed cameras, and I thought that examining various non-newtonian fluids and their behavior in extreme detail could yield some interesting results. Two major problems arose
+
 ### Magnetorheological Fluids: Properties, Applications and What Needs to Be Researched
 
 
